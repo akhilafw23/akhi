@@ -1,3 +1,5 @@
+
+let count=0;
 function equalTo42(size, arr){
 let count=0;
 for(let i=0; i<size; i++){
